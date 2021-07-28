@@ -1,5 +1,5 @@
 
-# Gama Academy - React
+# ReactJS - Gama Academy
 
 # Hiring Coders Project #2
 
