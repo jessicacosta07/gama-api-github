@@ -19,7 +19,7 @@
 
 # Page
 
-![image](https://user-images.githubusercontent.com/65916297/127249925-359a6a82-7110-4afb-97ef-ff7a5938cf0a.png)
+![image](https://user-images.githubusercontent.com/65916297/127250058-e1cf330a-def3-4e98-a0b7-29e71dfed57a.png)
 
 ![image](https://user-images.githubusercontent.com/65916297/127249958-19d53bd6-590c-4ff7-aa1f-5a27ac3aad8f.png)
 
