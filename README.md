@@ -17,7 +17,7 @@
 
 `http://localhost:3000`
 
-# Page
+# Pages
 
 ![image](https://user-images.githubusercontent.com/65916297/127250058-e1cf330a-def3-4e98-a0b7-29e71dfed57a.png)
 
