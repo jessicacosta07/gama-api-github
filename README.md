@@ -12,7 +12,7 @@
 
 # Start 
 
-`npm start` and `yarn start`
+`npm start` or `yarn start`
 
 # Run the app
 
