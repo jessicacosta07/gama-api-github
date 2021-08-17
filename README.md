@@ -1,9 +1,9 @@
 
 # ReactJS - Gama Academy
 
-# Hiring Coders Project #2
+## Hiring Coders Project #2
 
-# Skills
+## Skills
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -11,15 +11,15 @@
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Styled Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-# Start 
+## Start 
 
 `npm start` or `yarn start`
 
-# Run the app
+## Run the app
 
 `http://localhost:3000`
 
-# Pages
+## Pages
 
 ![image](https://user-images.githubusercontent.com/65916297/127250058-e1cf330a-def3-4e98-a0b7-29e71dfed57a.png)
 
